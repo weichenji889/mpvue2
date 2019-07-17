@@ -5,3 +5,8 @@
 ### 2.```npm init```  在命令行，使用该命令下载对应的依赖包
 ### 3.使用小程序开发工具打开项目，即可预览项目效果
 ![项目结构](C:\Users\Administrator\Pictures\Echarts\tu02.png)
+```javaScript
+<?php 
+echo "Hello World!"; 
+?> 
+```
